@@ -1,0 +1,36 @@
+{
+  "clientes": [
+    {
+      "nombre": "Nilo R Abrigato",
+      "empresa": "DesarrolladoresWebComAr",
+      "email": "nilo@desarrolladoresweb.com.ar",
+      "telefono": "5493816813058",
+      "notas": "Mis datos",
+      "id": 1
+    },
+    {
+      "nombre": "N Matías Abrigato",
+      "empresa": "Censys",
+      "email": "nilo.matias.123@gmai.com",
+      "telefono": "123456789",
+      "notas": "Matías",
+      "id": 3
+    },
+    {
+      "nombre": "Juan",
+      "empresa": "DesarrolladoresWebComAr",
+      "email": "niloabrigato@yahoo.com.ar",
+      "telefono": "6145009",
+      "notas": "jjjjj",
+      "id": 6
+    },
+    {
+      "nombre": "Paula",
+      "empresa": "Paula Cia",
+      "email": "paula@paulacia.com",
+      "telefono": "123456",
+      "notas": "la la",
+      "id": 7
+    }
+  ]
+}
